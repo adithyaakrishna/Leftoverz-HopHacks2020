@@ -24,14 +24,4 @@
 </ul>
 </p>
 </div>
-<div>
-<p align="left">
-<b>Design Files</b>
-
-- [Adobe Xd Design Files](https://drive.google.com/drive/folders/1F6DlRkKTK4wDGYnO_lv2Nry1P2mociyh?usp=sharing) 
-- [Youtube](https://drive.google.com/drive/folders/1F6DlRkKTK4wDGYnO_lv2Nry1P2mociyh?usp=sharing) 
-- [Presentation](https://drive.google.com/drive/folders/1F6DlRkKTK4wDGYnO_lv2Nry1P2mociyh?usp=sharing) 
-
-</p>
-</div>
 
