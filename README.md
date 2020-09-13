@@ -26,8 +26,9 @@
 </div>
 <p align="left">
 <b>Done By:</b>
+  
 - Chirag C
 - Adithya Krishna
-</ul>
+
 </p>
 </div>
